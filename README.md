@@ -1,9 +1,9 @@
-### Hi there, I'm Samir Djaafer - a Junior DevOps Consultant 👋
+### Hi there, I'm Samir Djaafer - a Junior DevOps Engineer 👋
 
 ## I started in Web Dev and now i'm exploring DevOps!
-- 🔭 I have currently finished training at Sparta Global
+- 🔭 I am currently exploring Azure DevOps
 - 🌱 I’m currently learning Docker and Kubernetes 🤣
-- 🥅 2020 Random Goal: Learn some Game Dev in Unity
+- 🥅 2022 Random Goal: Learn some Game Dev in Unity
 - ⚡ Fun fact: I love to play basketball
 
 
