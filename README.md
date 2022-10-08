@@ -2,8 +2,6 @@
 
 ## I started in Web Dev and now i'm exploring DevOps!
 - 🔭 I am currently exploring Azure DevOps
-- 🌱 I’m currently learning Docker and Kubernetes 🤣
-- 🥅 2022 Random Goal: Learn some Game Dev in Unity
 - ⚡ Fun fact: I love to play basketball
 
 
